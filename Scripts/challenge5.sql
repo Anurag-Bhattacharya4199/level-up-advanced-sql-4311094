@@ -1,3 +1,4 @@
+-- Least and most expensive car sold by each employee
 SELECT
   emp.employeeId,
   emp.firstName,

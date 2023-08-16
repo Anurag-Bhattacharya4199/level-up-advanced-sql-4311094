@@ -1,3 +1,4 @@
+-- Find salesperson who have zero sales
 SELECT
   e.firstName,
   e.lastName,

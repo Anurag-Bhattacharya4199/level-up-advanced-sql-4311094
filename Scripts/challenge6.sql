@@ -1,3 +1,4 @@
+-- Display a report for employees who have sold more than 5 cars
 SELECT
   emp.employeeId,
   MIN(s.salesAmount) AS [MIN Sales Amount],

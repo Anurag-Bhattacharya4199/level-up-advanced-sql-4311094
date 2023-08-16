@@ -1,3 +1,4 @@
+-- List all customers and their sales, even if data is missing
 SELECT
   s.salesAmount,
   s.soldDate,

@@ -1,3 +1,4 @@
+-- Cars has been sold per employee
 SELECT
   emp.employeeId,
   emp.firstName,
